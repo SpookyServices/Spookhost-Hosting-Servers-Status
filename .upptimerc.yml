@@ -228,11 +228,11 @@ sites:
     expectedStatusCodes:
       - 400
   - name: \[O] IP Ending with .42
-    url: ${{ secrets.IP_GRP_MISC}}.42:$MONITORING_PORT
+    url: $IP_GRP_MISC.42:$MONITORING_PORT
     expectedStatusCodes:
       - 400
   - name: \[O] IP Ending with .41
-    url: ${{ secrets.IP_GRP_MISC}}.41:$MONITORING_PORT
+    url: $IP_GRP_MISC.41:$MONITORING_PORT
     expectedStatusCodes:
       - 400
   - name: \[A] IP Ending with .102
