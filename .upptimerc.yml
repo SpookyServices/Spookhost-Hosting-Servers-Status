@@ -1,31 +1,275 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: SpookyServices # Your GitHub organization or username, where this repository lives
+repo: Spookhost-Hosting-Servers-Status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: \[B\] IP Ending with .232
+    url: ${{ secrets.IP_GRP_B}}.232:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .231
+    url: ${{ secrets.IP_GRP_B}}.231:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .218
+    url: ${{ secrets.IP_GRP_B}}.218:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .222
+    url: ${{ secrets.IP_GRP_B}}.222:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[D\] IP Ending with .65
+    url: ${{ secrets.IP_GRP_E}}.65:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[D\] IP Ending with .60
+    url: ${{ secrets.IP_GRP_E}}.60:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[D\] IP Ending with .55
+    url: ${{ secrets.IP_GRP_D}}.55:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .150
+    url: ${{ secrets.IP_GRP_A}}.150:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .156
+    url: ${{ secrets.IP_GRP_A}}.156:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .151
+    url: ${{ secrets.IP_GRP_A}}.151:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .144
+    url: ${{ secrets.IP_GRP_A}}.144:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .168
+    url: ${{ secrets.IP_GRP_A}}.168:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[C\] IP Ending with .33
+    url: ${{ secrets.IP_GRP_C}}.33:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .116
+    url: ${{ secrets.IP_GRP_A}}.116:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[F\] IP Ending with .98
+    url: ${{ secrets.IP_GRP_F}}.98:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[F\] IP Ending with .99
+    url: ${{ secrets.IP_GRP_F}}.99:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .130
+    url: ${{ secrets.IP_GRP_A}}.130:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .139
+    url: ${{ secrets.IP_GRP_A}}.139:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .106
+    url: ${{ secrets.IP_GRP_A}}.106:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .176
+    url: ${{ secrets.IP_GRP_A}}.176:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .206
+    url: ${{ secrets.IP_GRP_B}}.206:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .223
+    url: ${{ secrets.IP_GRP_B}}.223:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .101
+    url: ${{ secrets.IP_GRP_A}}.101:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[D\] IP Ending with .57
+    url: ${{ secrets.IP_GRP_D}}.57:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[C\] IP Ending with .33
+    url: ${{ secrets.IP_GRP_C}}.33:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[C\] IP Ending with .34
+    url: ${{ secrets.IP_GRP_C}}.34:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .117
+    url: ${{ secrets.IP_GRP_A}}.117:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .115
+    url: ${{ secrets.IP_GRP_A}}.115:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .105
+    url: ${{ secrets.IP_GRP_A}}.105:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[D\] IP Ending with .59
+    url: ${{ secrets.IP_GRP_D}}.59:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .107
+    url: ${{ secrets.IP_GRP_A}}.107:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .133
+    url: ${{ secrets.IP_GRP_A}}.133:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[F\] IP Ending with .92
+    url: ${{ secrets.IP_GRP_F}}.92:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .120
+    url: ${{ secrets.IP_GRP_A}}.120:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .213
+    url: ${{ secrets.IP_GRP_B}}.213:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .217
+    url: ${{ secrets.IP_GRP_B}}.217:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .252
+    url: ${{ secrets.IP_GRP_B}}.252:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .174
+    url: ${{ secrets.IP_GRP_A}}.174:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .171
+    url: ${{ secrets.IP_GRP_A}}.171:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .160
+    url: ${{ secrets.IP_GRP_A}}.160:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .146
+    url: ${{ secrets.IP_GRP_A}}.146:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .148
+    url: ${{ secrets.IP_GRP_A}}.148:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .149
+    url: ${{ secrets.IP_GRP_A}}.149:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .177
+    url: ${{ secrets.IP_GRP_A}}.177:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .178
+    url: ${{ secrets.IP_GRP_A}}.178:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .165
+    url: ${{ secrets.IP_GRP_A}}.165:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .166
+    url: ${{ secrets.IP_GRP_A}}.166:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .167
+    url: ${{ secrets.IP_GRP_A}}.167:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .170
+    url: ${{ secrets.IP_GRP_A}}.170:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .122
+    url: ${{ secrets.IP_GRP_A}}.122:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .123
+    url: ${{ secrets.IP_GRP_A}}.123:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .104
+    url: ${{ secrets.IP_GRP_A}}.104:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .125
+    url: ${{ secrets.IP_GRP_A}}.125:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .215
+    url: ${{ secrets.IP_GRP_B}}.215:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .108
+    url: ${{ secrets.IP_GRP_A}}.108:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[B\] IP Ending with .224
+    url: ${{ secrets.IP_GRP_B}}.224:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[O\] IP Ending with .42
+    url: ${{ secrets.IP_GRP_MISC}}.42:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[O\] IP Ending with .41
+    url: ${{ secrets.IP_GRP_MISC}}.41:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .102
+    url: ${{ secrets.IP_GRP_A}}.102:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[A\] IP Ending with .195
+    url: ${{ secrets.IP_GRP_A}}.195:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+  - name: \[C\] IP Ending with .37
+    url: ${{ secrets.IP_GRP_C}}.37:$MONITORING_PORT
+    expectedStatusCodes:
+      - 400
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: servers.status.spookhost.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://spookhost.xyz/assets/img/logo.png
+  name: Hosting Servers Status
+  favicon: https://spookhost.xyz/assets/img/favicon.png
+  introTitle: "Spookhost Status - Hosting Servers"
+  introMessage: This page shows the uptime information of Spookhost&#39;s Hosting Servers.<br>To view the Spookhost Primary Systems Status, please [click here](https://spookhost.instatus.com/).<br>Don&#39;t see your Website&#39;s IP here? Please [open a support ticket](https://portal.spookhost.xyz/u/tickets/) and we will add it to this list!
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Spookhost
+      href: https://spookhost.xyz/
+    - title: Primary System Status
+      href: https://spookhost.instatus.com/
+
+i18n:
+  allSystemsOperational: All servers are operational
+  activeIncidentSummary: Opened at $DATE with $POSTS update(s)
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS update(s)
+  footer: Spookhost Hosting Servers Status, powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
