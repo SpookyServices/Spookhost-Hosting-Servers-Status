@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-09": 793
+      "2023-10-09": 799
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "$IP_GRP_A.168:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-168",
-    "status": "down",
-    "uptime": "96.67%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "96.67%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "96.67%",
-    "time": 274,
-    "timeDay": 274,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "95.96%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "95.96%",
+    "time": 265,
+    "timeDay": 265,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-10-09": 26
+      "2023-10-09": 32
     }
   },
   {
