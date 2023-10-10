@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-10": 595,
+      "2023-10-10": 618,
       "2023-10-09": 1283
     }
   },
@@ -206,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-168",
     "status": "up",
-    "uptime": "95.78%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "95.78%",
+    "uptime": "96.17%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "96.17%",
     "time": 260,
     "timeDay": 262,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2023-10-10": 23,
+      "2023-10-10": 17,
       "2023-10-09": 56
     }
   },
@@ -820,18 +820,20 @@
     "url": "$IP_GRP_A.165:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-165",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 238,
     "timeDay": 232,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 1
+    }
   },
   {
     "name": "[A] IP Ending with .166",
@@ -965,18 +967,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-215",
     "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
+    "uptime": "98.39%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
     "time": 227,
     "timeDay": 202,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-10-10": 36
+      "2023-10-10": 31
     }
   },
   {
