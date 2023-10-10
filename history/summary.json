@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-10": 291,
+      "2023-10-10": 417,
       "2023-10-09": 1283
     }
   },
@@ -205,18 +205,19 @@
     "url": "$IP_GRP_A.168:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-168",
-    "status": "up",
-    "uptime": "96.43%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "status": "down",
+    "uptime": "96.67%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "96.67%",
     "time": 255,
     "timeDay": 254,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-10-09": 56
     }
   },
@@ -820,19 +821,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-165",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 241,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
-    "dailyMinutesDown": {
-      "2023-10-10": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[A] IP Ending with .166",
@@ -840,19 +839,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-166",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 254,
     "timeDay": 250,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
-    "dailyMinutesDown": {
-      "2023-10-10": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[A] IP Ending with .167",
@@ -860,19 +857,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-167",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 222,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
-    "dailyMinutesDown": {
-      "2023-10-10": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[A] IP Ending with .170",
