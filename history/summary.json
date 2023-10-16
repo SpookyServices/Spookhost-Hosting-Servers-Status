@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 1003,
+      "2023-10-16": 1010,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -252,19 +252,19 @@
     "url": "$IP_GRP_A.116:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-116",
-    "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "91.75%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
-    "time": 239,
-    "timeDay": 222,
-    "timeWeek": 235,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 235,
+    "timeDay": 215,
+    "timeWeek": 230,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-10-16": 118
+      "2023-10-16": 124
     }
   },
   {
