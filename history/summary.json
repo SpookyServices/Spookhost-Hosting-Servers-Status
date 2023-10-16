@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 905,
+      "2023-10-16": 934,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -221,7 +221,7 @@
     "uptimeYear": "99.16%",
     "time": 277,
     "timeDay": 304,
-    "timeWeek": 273,
+    "timeWeek": 279,
     "timeMonth": 277,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -253,18 +253,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-116",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.91%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 239,
     "timeDay": 222,
     "timeWeek": 235,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-10-16": 128
+      "2023-10-16": 118
     }
   },
   {
@@ -273,18 +273,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-98",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.91%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 241,
     "timeDay": 228,
     "timeWeek": 238,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-10-16": 128
+      "2023-10-16": 118
     }
   },
   {
@@ -984,9 +984,9 @@
     "url": "$IP_GRP_B.215:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-215",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "93.04%",
+    "uptimeDay": "93.00%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.79%",
@@ -996,7 +996,7 @@
     "timeMonth": 888,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2023-10-16": 100,
+      "2023-10-16": 101,
       "2023-10-10": 31
     }
   },
