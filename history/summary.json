@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-232",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 249,
     "timeDay": 178,
     "timeWeek": 248,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-10-19": 7
+      "2023-10-19": 21
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-65",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 249,
     "timeDay": 178,
     "timeWeek": 247,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-10-19": 6
+      "2023-10-19": 20
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-19": 383,
+      "2023-10-19": 397,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -306,18 +306,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-99",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.66%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 241,
     "timeDay": 186,
     "timeWeek": 239,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-10-19": 5,
+      "2023-10-19": 19,
       "2023-10-15": 31
     }
   },
@@ -615,18 +615,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-92",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 247,
     "timeDay": 187,
     "timeWeek": 248,
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-10-19": 5
+      "2023-10-19": 19
     }
   },
   {
@@ -652,18 +652,20 @@
     "url": "$IP_GRP_B.213:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-213",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 248,
     "timeDay": 179,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-19": 4
+    }
   },
   {
     "name": "[B] IP Ending with .217",
@@ -671,18 +673,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-217",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 247,
     "timeDay": 189,
     "timeWeek": 247,
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-10-19": 4
+      "2023-10-19": 18
     }
   },
   {
@@ -709,18 +711,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-174",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 245,
     "timeDay": 178,
     "timeWeek": 245,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-10-19": 4
+      "2023-10-19": 18
     }
   },
   {
@@ -747,18 +749,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-160",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 248,
     "timeDay": 186,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-10-19": 3
+      "2023-10-19": 17
     }
   },
   {
@@ -821,18 +823,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-177",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 248,
     "timeDay": 186,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-10-19": 2
+      "2023-10-19": 17
     }
   },
   {
@@ -841,18 +843,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-178",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 246,
     "timeDay": 177,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-10-19": 2
+      "2023-10-19": 16
     }
   },
   {
@@ -939,18 +941,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-122",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 247,
     "timeDay": 186,
     "timeWeek": 246,
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-10-19": 1
+      "2023-10-19": 16
     }
   },
   {
@@ -959,18 +961,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-123",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 247,
     "timeDay": 186,
     "timeWeek": 248,
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-10-19": 1
+      "2023-10-19": 15
     }
   },
   {
@@ -1055,18 +1057,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-224",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 248,
     "timeDay": 178,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-10-19": 0
+      "2023-10-19": 15
     }
   },
   {
