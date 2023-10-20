@@ -243,10 +243,6 @@ sites:
     url: $IP_GRP_A.195:$MONITORING_PORT
     expectedStatusCodes:
       - 400
-  - name: "[C] IP Ending with .37"
-    url: $IP_GRP_C.37:$MONITORING_PORT
-    expectedStatusCodes:
-      - 400
 
 
 status-website:
