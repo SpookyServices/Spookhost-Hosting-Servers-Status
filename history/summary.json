@@ -101,9 +101,9 @@
     "url": "$IP_GRP_E.60:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-60",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "98.64%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -113,7 +113,7 @@
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-11-07": 19,
+      "2023-11-07": 20,
       "2023-11-05": 15,
       "2023-11-03": 16,
       "2023-11-02": 17
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-07": 650,
+      "2023-11-07": 668,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -276,7 +276,7 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.84%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -286,7 +286,6 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-11-07": 0,
       "2023-11-06": 17,
       "2023-10-31": 15
     }
@@ -510,7 +509,7 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.84%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -520,7 +519,6 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-11-07": 0,
       "2023-11-06": 17,
       "2023-10-31": 15
     }
@@ -1070,11 +1068,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-215",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.40%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "92.41%",
     "time": 364,
     "timeDay": 186,
     "timeWeek": 232,
