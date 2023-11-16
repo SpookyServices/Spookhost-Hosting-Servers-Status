@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 670,
+      "2023-11-16": 692,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -286,7 +286,7 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -296,7 +296,6 @@
     "timeMonth": 300,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-11-16": 0,
       "2023-11-06": 17,
       "2023-10-31": 15
     }
@@ -338,7 +337,7 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.63%",
     "time": 233,
-    "timeDay": 312,
+    "timeDay": 303,
     "timeWeek": 231,
     "timeMonth": 230,
     "timeYear": 233,
@@ -530,7 +529,7 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -540,7 +539,6 @@
     "timeMonth": 300,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-11-16": 0,
       "2023-11-06": 17,
       "2023-10-31": 15
     }
@@ -1093,18 +1091,19 @@
     "url": "$IP_GRP_B.215:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-215",
-    "status": "up",
+    "status": "down",
     "uptime": "93.91%",
-    "uptimeDay": "96.31%",
+    "uptimeDay": "96.27%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "93.91%",
     "time": 313,
-    "timeDay": 221,
-    "timeWeek": 240,
+    "timeDay": 225,
+    "timeWeek": 239,
     "timeMonth": 241,
     "timeYear": 313,
     "dailyMinutesDown": {
+      "2023-11-16": 1,
       "2023-11-15": 54,
       "2023-11-14": 16,
       "2023-11-13": 18,
