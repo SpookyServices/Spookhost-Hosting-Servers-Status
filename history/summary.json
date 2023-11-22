@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-22": 1097,
+      "2023-11-22": 1117,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
@@ -293,7 +293,7 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -303,7 +303,6 @@
     "timeMonth": 293,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-11-22": 0,
       "2023-11-06": 17,
       "2023-10-31": 15
     }
@@ -313,9 +312,9 @@
     "url": "$IP_GRP_A.116:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-116",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "92.45%",
+    "uptimeDay": "92.42%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.34%",
@@ -546,7 +545,7 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -556,7 +555,6 @@
     "timeMonth": 293,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-11-22": 0,
       "2023-11-06": 17,
       "2023-10-31": 15
     }
