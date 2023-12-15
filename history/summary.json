@@ -182,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-15": 1008,
+      "2023-12-15": 1015,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -350,7 +350,7 @@
     "time": 238,
     "timeDay": 303,
     "timeWeek": 248,
-    "timeMonth": 238,
+    "timeMonth": 234,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-12-05": 66,
@@ -943,19 +943,19 @@
     "url": "$IP_GRP_A.149:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-149",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 289,
-    "timeWeek": 231,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 259,
+    "timeDay": 1162,
+    "timeWeek": 457,
+    "timeMonth": 292,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-12-15": 1
+      "2023-12-15": 7
     }
   },
   {
