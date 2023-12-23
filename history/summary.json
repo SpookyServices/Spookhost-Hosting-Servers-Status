@@ -182,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-23": 1291,
+      "2023-12-23": 1298,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -420,9 +420,9 @@
     "url": "$IP_GRP_F.99:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-99",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "85.68%",
+    "uptimeDay": "86.13%",
     "uptimeWeek": "97.90%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.20%",
@@ -432,7 +432,7 @@
     "timeMonth": 313,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-12-23": 112,
+      "2023-12-23": 113,
       "2023-12-22": 101,
       "2023-10-19": 635,
       "2023-10-15": 31
