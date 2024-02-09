@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-09": 64,
+      "2024-02-09": 278,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
@@ -330,9 +330,9 @@
     "url": "$IP_GRP_A.151:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-151",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.91%",
+    "uptimeDay": "97.89%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
@@ -342,6 +342,7 @@
     "timeMonth": 222,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-02-08": 30,
       "2024-01-25": 32,
       "2023-10-19": 35,
