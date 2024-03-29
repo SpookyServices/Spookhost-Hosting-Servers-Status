@@ -35,10 +35,6 @@ sites:
     url: $IP_GRP_A.150:$MONITORING_PORT
     expectedStatusCodes:
       - 400
-  - name: "[A] IP Ending with .156"
-    url: $IP_GRP_A.156:$MONITORING_PORT
-    expectedStatusCodes:
-      - 400
   - name: "[A] IP Ending with .151"
     url: $IP_GRP_A.151:$MONITORING_PORT
     expectedStatusCodes:
