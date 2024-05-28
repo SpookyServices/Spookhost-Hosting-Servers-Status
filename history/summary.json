@@ -1411,10 +1411,10 @@
     "url": "$IP_GRP_A.102:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-102",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 227,
@@ -1423,6 +1423,7 @@
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2024-05-28": 1,
       "2024-05-16": 42,
       "2024-03-03": 19,
       "2024-01-25": 40
