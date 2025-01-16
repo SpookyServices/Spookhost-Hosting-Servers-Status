@@ -251,7 +251,7 @@ status-website:
     - title: Spookhost
       href: https://spookhost.xyz/
     - title: Primary System Status
-      href: https://spookhost.instatus.com/
+      href: https://status.spookhost.xyz/
 
 i18n:
   allSystemsOperational: All servers are operational
