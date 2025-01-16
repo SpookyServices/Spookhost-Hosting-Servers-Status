@@ -246,7 +246,7 @@ status-website:
   name: Hosting Servers Status
   favicon: https://spookhost.xyz/assets/img/favicon.png
   introTitle: "Spookhost Status - Hosting Servers"
-  introMessage: This page shows the uptime information of Spookhost&#39;s Hosting Servers.<br>To view the Spookhost Primary Systems Status, please [click here](https://spookhost.instatus.com/).<br>Don&#39;t see your Website&#39;s IP here? Please [open a support ticket](https://portal.spookhost.xyz/u/tickets/) and we will add it to this list!
+  introMessage: This page shows the uptime information of Spookhost&#39;s Hosting Servers.<br>To view the Spookhost Primary Systems Status, please [click here](https://spookhost.instatus.com/).<br>Uptime checked every 5 minutes<br>Don&#39;t see your Website&#39;s IP here? Please [open a support ticket](https://portal.spookhost.xyz/u/tickets/) and we will add it to this list!<br><br>This status page is experimental, data here may not accurately represent server status and/or uptime percentage.
   navbar:
     - title: Spookhost
       href: https://spookhost.xyz/
