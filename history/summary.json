@@ -1133,18 +1133,19 @@
     "url": "$IP_GRP_A.167:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-167",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 222,
+    "time": 221,
     "timeDay": 232,
     "timeWeek": 220,
     "timeMonth": 211,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2025-04-14": 1,
       "2024-08-21": 144
     }
   },
