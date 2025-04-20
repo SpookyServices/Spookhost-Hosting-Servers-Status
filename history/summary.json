@@ -1170,10 +1170,10 @@
     "url": "$IP_GRP_A.122:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-122",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 222,
@@ -1182,7 +1182,7 @@
     "timeMonth": 209,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-04-20": 55,
+      "2025-04-20": 56,
       "2024-08-22": 21,
       "2024-08-21": 143
     }
