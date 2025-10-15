@@ -1,7 +1,7 @@
 url: $IP_GRP_A.195:$MONITORING_PORT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-15T06:25:15.322Z
+status: up
+code: 400
+responseTime: 280
+lastUpdated: 2025-10-15T07:02:59.431Z
 startTime: 2023-10-09T02:37:41.842Z
 generator: Upptime <https://github.com/upptime/upptime>
