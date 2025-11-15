@@ -71,7 +71,7 @@
     "time": 235,
     "timeDay": 193,
     "timeWeek": 234,
-    "timeMonth": 274,
+    "timeMonth": 275,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-11-02": 149,
@@ -160,7 +160,7 @@
     "time": 223,
     "timeDay": 193,
     "timeWeek": 235,
-    "timeMonth": 223,
+    "timeMonth": 222,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2025-11-02": 236,
@@ -334,7 +334,7 @@
     "time": 254,
     "timeDay": 193,
     "timeWeek": 232,
-    "timeMonth": 269,
+    "timeMonth": 270,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-11-02": 253,
@@ -358,12 +358,12 @@
     "status": "up",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "84.17%",
     "uptimeYear": "98.68%",
     "time": 225,
     "timeDay": 197,
-    "timeWeek": 235,
+    "timeWeek": 229,
     "timeMonth": 218,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -426,7 +426,7 @@
     "time": 220,
     "timeDay": 194,
     "timeWeek": 233,
-    "timeMonth": 218,
+    "timeMonth": 217,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-11-07": 22,
@@ -601,7 +601,7 @@
     "time": 221,
     "timeDay": 193,
     "timeWeek": 233,
-    "timeMonth": 219,
+    "timeMonth": 218,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-11-02": 201,
@@ -660,7 +660,7 @@
     "time": 254,
     "timeDay": 193,
     "timeWeek": 232,
-    "timeMonth": 269,
+    "timeMonth": 270,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-11-02": 253,
@@ -710,11 +710,11 @@
     "url": "$IP_GRP_A.117:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-117",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.07%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "85.16%",
     "uptimeYear": "98.76%",
     "time": 279,
     "timeDay": 194,
@@ -722,6 +722,7 @@
     "timeMonth": 219,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2025-11-15": 4,
       "2025-11-02": 247,
       "2025-11-01": 743,
       "2025-10-31": 559,
@@ -731,7 +732,7 @@
       "2025-10-27": 612,
       "2025-10-26": 816,
       "2025-10-25": 961,
-      "2025-10-24": 422
+      "2025-10-24": 380
     }
   },
   {
@@ -943,7 +944,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-213",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.24%",
@@ -1096,7 +1097,7 @@
     "time": 232,
     "timeDay": 199,
     "timeWeek": 234,
-    "timeMonth": 224,
+    "timeMonth": 223,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-11-02": 143,
@@ -1125,7 +1126,7 @@
     "time": 223,
     "timeDay": 194,
     "timeWeek": 233,
-    "timeMonth": 220,
+    "timeMonth": 219,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-02": 110,
@@ -1185,7 +1186,7 @@
     "time": 226,
     "timeDay": 195,
     "timeWeek": 236,
-    "timeMonth": 221,
+    "timeMonth": 220,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-02": 105,
@@ -1429,7 +1430,7 @@
     "time": 247,
     "timeDay": 194,
     "timeWeek": 234,
-    "timeMonth": 222,
+    "timeMonth": 221,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-11-02": 61,
@@ -1459,7 +1460,7 @@
     "time": 222,
     "timeDay": 194,
     "timeWeek": 233,
-    "timeMonth": 221,
+    "timeMonth": 220,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-11-02": 58,
