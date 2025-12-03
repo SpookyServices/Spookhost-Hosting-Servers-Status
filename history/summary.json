@@ -171,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-60",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "97.96%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.40%",
@@ -404,12 +404,12 @@
     "uptime": "99.40%",
     "uptimeDay": "98.19%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "98.70%",
     "time": 224,
     "timeDay": 229,
     "timeWeek": 218,
-    "timeMonth": 226,
+    "timeMonth": 227,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-12-02": 26,
@@ -764,18 +764,19 @@
     "url": "$IP_GRP_C.34:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-ip-ending-with-34",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "98.80%",
     "time": 222,
     "timeDay": 234,
     "timeWeek": 227,
     "timeMonth": 231,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2025-12-03": 4,
       "2025-12-02": 21,
       "2025-11-25": 22,
       "2025-11-20": 25,
@@ -789,7 +790,7 @@
       "2025-10-27": 626,
       "2025-10-26": 813,
       "2025-10-25": 911,
-      "2025-10-24": 166
+      "2025-10-24": 107
     }
   },
   {
@@ -1187,17 +1188,16 @@
     "slug": "a-ip-ending-with-171",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "98.88%",
     "time": 220,
     "timeDay": 232,
-    "timeWeek": 228,
+    "timeWeek": 220,
     "timeMonth": 230,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-12-02": 15,
       "2025-11-26": 51,
       "2025-11-25": 16,
       "2025-11-19": 15,
@@ -1210,7 +1210,7 @@
       "2025-10-27": 571,
       "2025-10-26": 730,
       "2025-10-25": 864,
-      "2025-10-24": 163
+      "2025-10-24": 180
     }
   },
   {
@@ -1220,9 +1220,9 @@
     "slug": "a-ip-ending-with-160",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.88%",
     "time": 232,
     "timeDay": 233,
@@ -1230,7 +1230,6 @@
     "timeMonth": 229,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-12-02": 14,
       "2025-11-25": 15,
       "2025-11-02": 143,
       "2025-11-01": 674,
@@ -1241,7 +1240,7 @@
       "2025-10-27": 565,
       "2025-10-26": 690,
       "2025-10-25": 858,
-      "2025-10-24": 345
+      "2025-10-24": 366
     }
   },
   {
@@ -1618,12 +1617,12 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.77%",
     "time": 232,
     "timeDay": 233,
     "timeWeek": 228,
-    "timeMonth": 229,
+    "timeMonth": 230,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-11-03": 16,
