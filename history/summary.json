@@ -1951,11 +1951,11 @@
     "url": "$IP_GRP_A.102:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-102",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "98.71%",
     "time": 220,
     "timeDay": 207,
@@ -1963,7 +1963,7 @@
     "timeMonth": 224,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-12-08": 102,
+      "2025-12-08": 111,
       "2025-12-07": 22,
       "2025-11-02": 41,
       "2025-11-01": 691,
@@ -1977,7 +1977,7 @@
       "2025-10-24": 628,
       "2025-10-23": 510,
       "2025-10-22": 436,
-      "2025-10-21": 27
+      "2025-10-21": 13
     }
   },
   {
