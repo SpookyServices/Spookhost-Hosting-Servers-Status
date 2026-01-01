@@ -616,19 +616,18 @@
     "url": "$IP_GRP_A.130:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-130",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "98.79%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "98.74%",
     "time": 232,
-    "timeDay": 192,
-    "timeWeek": 210,
-    "timeMonth": 244,
+    "timeDay": 242,
+    "timeWeek": 218,
+    "timeMonth": 245,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-01-01": 3,
       "2025-12-30": 37,
       "2025-12-27": 25,
       "2025-12-26": 24,
@@ -649,7 +648,8 @@
       "2025-10-28": 752,
       "2025-10-27": 661,
       "2025-10-26": 864,
-      "2025-10-25": 722
+      "2025-10-25": 984,
+      "2025-10-24": 1
     }
   },
   {
