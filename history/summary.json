@@ -4,11 +4,11 @@
     "url": "$IP_GRP_B.232:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-232",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "77.91%",
-    "uptimeWeek": "78.22%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "77.11%",
+    "uptimeWeek": "77.91%",
+    "uptimeMonth": "94.43%",
     "uptimeYear": "98.62%",
     "time": 247,
     "timeDay": 215,
@@ -16,7 +16,7 @@
     "timeMonth": 227,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-01-09": 121,
+      "2026-01-09": 152,
       "2026-01-08": 265,
       "2026-01-07": 208,
       "2026-01-06": 316,
@@ -41,7 +41,7 @@
       "2025-10-30": 771,
       "2025-10-29": 890,
       "2025-10-28": 824,
-      "2025-10-27": 468
+      "2025-10-27": 425
     }
   },
   {
@@ -49,11 +49,11 @@
     "url": "$IP_GRP_B.231:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-231",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "78.14%",
-    "uptimeWeek": "78.74%",
-    "uptimeMonth": "94.63%",
+    "uptimeDay": "77.34%",
+    "uptimeWeek": "78.44%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "98.59%",
     "time": 238,
     "timeDay": 218,
@@ -61,7 +61,7 @@
     "timeMonth": 230,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-01-09": 119,
+      "2026-01-09": 150,
       "2026-01-08": 264,
       "2026-01-07": 204,
       "2026-01-06": 314,
@@ -86,7 +86,7 @@
       "2025-10-29": 885,
       "2025-10-28": 818,
       "2025-10-27": 721,
-      "2025-10-26": 93
+      "2025-10-26": 58
     }
   },
   {
@@ -94,19 +94,19 @@
     "url": "$IP_GRP_B.218:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-218",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "78.38%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "77.58%",
+    "uptimeWeek": "78.14%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "98.64%",
     "time": 234,
     "timeDay": 214,
     "timeWeek": 233,
     "timeMonth": 229,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-01-09": 118,
+      "2026-01-09": 148,
       "2026-01-08": 261,
       "2026-01-07": 204,
       "2026-01-06": 310,
@@ -131,8 +131,7 @@
       "2025-10-30": 762,
       "2025-10-29": 882,
       "2025-10-28": 814,
-      "2025-10-27": 719,
-      "2025-10-26": 58
+      "2025-10-27": 480
     }
   },
   {
@@ -140,11 +139,11 @@
     "url": "$IP_GRP_B.222:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-222",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "78.61%",
-    "uptimeWeek": "78.56%",
-    "uptimeMonth": "94.60%",
+    "uptimeDay": "77.81%",
+    "uptimeWeek": "78.26%",
+    "uptimeMonth": "94.53%",
     "uptimeYear": "98.65%",
     "time": 228,
     "timeDay": 218,
@@ -152,7 +151,7 @@
     "timeMonth": 228,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-01-09": 116,
+      "2026-01-09": 146,
       "2026-01-08": 260,
       "2026-01-07": 200,
       "2026-01-06": 308,
@@ -178,7 +177,7 @@
       "2025-10-30": 757,
       "2025-10-29": 877,
       "2025-10-28": 810,
-      "2025-10-27": 433
+      "2025-10-27": 382
     }
   },
   {
@@ -186,11 +185,11 @@
     "url": "$IP_GRP_E.65:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-65",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "78.85%",
-    "uptimeWeek": "78.68%",
-    "uptimeMonth": "94.63%",
+    "uptimeDay": "78.05%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "98.65%",
     "time": 227,
     "timeDay": 219,
@@ -198,7 +197,7 @@
     "timeMonth": 227,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-01-09": 115,
+      "2026-01-09": 145,
       "2026-01-08": 257,
       "2026-01-07": 200,
       "2026-01-06": 304,
@@ -224,7 +223,7 @@
       "2025-10-30": 752,
       "2025-10-29": 874,
       "2025-10-28": 806,
-      "2025-10-27": 471
+      "2025-10-27": 430
     }
   },
   {
@@ -232,19 +231,19 @@
     "url": "$IP_GRP_E.60:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-60",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "79.08%",
-    "uptimeWeek": "78.79%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "98.65%",
+    "uptimeDay": "78.29%",
+    "uptimeWeek": "78.50%",
+    "uptimeMonth": "94.52%",
+    "uptimeYear": "98.66%",
     "time": 224,
     "timeDay": 217,
     "timeWeek": 235,
     "timeMonth": 228,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-01-09": 113,
+      "2026-01-09": 143,
       "2026-01-08": 257,
       "2026-01-07": 196,
       "2026-01-06": 303,
@@ -272,7 +271,7 @@
       "2025-10-30": 749,
       "2025-10-29": 869,
       "2025-10-28": 800,
-      "2025-10-27": 329
+      "2025-10-27": 278
     }
   },
   {
@@ -280,19 +279,19 @@
     "url": "$IP_GRP_D.55:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-55",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "78.60%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "98.68%",
+    "uptimeDay": "78.52%",
+    "uptimeWeek": "78.31%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "98.69%",
     "time": 223,
     "timeDay": 215,
     "timeWeek": 229,
     "timeMonth": 231,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 112,
+      "2026-01-09": 141,
       "2026-01-08": 255,
       "2026-01-07": 196,
       "2026-01-06": 298,
@@ -317,7 +316,7 @@
       "2025-10-30": 741,
       "2025-10-29": 866,
       "2025-10-28": 796,
-      "2025-10-27": 327
+      "2025-10-27": 277
     }
   },
   {
@@ -325,19 +324,19 @@
     "url": "$IP_GRP_A.150:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-150",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "79.55%",
-    "uptimeWeek": "79.02%",
-    "uptimeMonth": "94.67%",
-    "uptimeYear": "98.68%",
+    "uptimeDay": "78.76%",
+    "uptimeWeek": "78.74%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "98.69%",
     "time": 220,
     "timeDay": 215,
     "timeWeek": 257,
     "timeMonth": 239,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-01-09": 110,
+      "2026-01-09": 139,
       "2026-01-08": 253,
       "2026-01-07": 192,
       "2026-01-06": 297,
@@ -361,7 +360,7 @@
       "2025-10-30": 739,
       "2025-10-29": 861,
       "2025-10-28": 791,
-      "2025-10-27": 456
+      "2025-10-27": 417
     }
   },
   {
@@ -369,11 +368,11 @@
     "url": "$IP_GRP_A.151:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-151",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "79.79%",
-    "uptimeWeek": "85.11%",
-    "uptimeMonth": "96.14%",
+    "uptimeDay": "79.00%",
+    "uptimeWeek": "84.82%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "98.81%",
     "time": 223,
     "timeDay": 216,
@@ -381,7 +380,7 @@
     "timeMonth": 241,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-01-09": 109,
+      "2026-01-09": 138,
       "2026-01-08": 251,
       "2026-01-07": 192,
       "2026-01-06": 293,
@@ -405,7 +404,7 @@
       "2025-10-30": 732,
       "2025-10-29": 857,
       "2025-10-28": 786,
-      "2025-10-27": 453
+      "2025-10-27": 414
     }
   },
   {
@@ -413,19 +412,19 @@
     "url": "$IP_GRP_A.144:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-144",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "80.03%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "94.65%",
-    "uptimeYear": "98.63%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "79.23%",
+    "uptimeWeek": "78.97%",
+    "uptimeMonth": "94.58%",
+    "uptimeYear": "98.68%",
     "time": 247,
     "timeDay": 217,
     "timeWeek": 233,
     "timeMonth": 244,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-01-09": 107,
+      "2026-01-09": 135,
       "2026-01-08": 249,
       "2026-01-07": 188,
       "2026-01-06": 291,
@@ -450,8 +449,7 @@
       "2025-10-30": 755,
       "2025-10-29": 853,
       "2025-10-28": 781,
-      "2025-10-27": 687,
-      "2025-10-26": 54
+      "2025-10-27": 448
     }
   },
   {
@@ -459,19 +457,19 @@
     "url": "$IP_GRP_A.168:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-168",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "80.26%",
-    "uptimeWeek": "79.37%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "98.66%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "79.47%",
+    "uptimeWeek": "79.09%",
+    "uptimeMonth": "94.76%",
+    "uptimeYear": "98.71%",
     "time": 221,
     "timeDay": 213,
     "timeWeek": 233,
     "timeMonth": 228,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-01-09": 106,
+      "2026-01-09": 134,
       "2026-01-08": 247,
       "2026-01-07": 188,
       "2026-01-06": 287,
@@ -495,8 +493,7 @@
       "2025-10-30": 723,
       "2025-10-29": 849,
       "2025-10-28": 776,
-      "2025-10-27": 683,
-      "2025-10-26": 54
+      "2025-10-27": 444
     }
   },
   {
@@ -504,11 +501,11 @@
     "url": "$IP_GRP_C.33:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-ip-ending-with-33",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "80.50%",
-    "uptimeWeek": "79.48%",
-    "uptimeMonth": "94.86%",
+    "uptimeDay": "79.71%",
+    "uptimeWeek": "79.21%",
+    "uptimeMonth": "94.79%",
     "uptimeYear": "98.71%",
     "time": 250,
     "timeDay": 219,
@@ -516,7 +513,7 @@
     "timeMonth": 229,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-01-09": 104,
+      "2026-01-09": 132,
       "2026-01-08": 245,
       "2026-01-07": 184,
       "2026-01-06": 285,
@@ -542,7 +539,7 @@
       "2025-10-30": 699,
       "2025-10-29": 846,
       "2025-10-28": 771,
-      "2025-10-27": 439
+      "2025-10-27": 401
     }
   },
   {
@@ -550,11 +547,11 @@
     "url": "$IP_GRP_A.116:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-116",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "80.73%",
-    "uptimeWeek": "79.60%",
-    "uptimeMonth": "94.84%",
+    "uptimeDay": "79.94%",
+    "uptimeWeek": "79.33%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "98.70%",
     "time": 225,
     "timeDay": 220,
@@ -562,7 +559,7 @@
     "timeMonth": 231,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 103,
+      "2026-01-09": 130,
       "2026-01-08": 243,
       "2026-01-07": 184,
       "2026-01-06": 281,
@@ -591,7 +588,7 @@
       "2025-10-30": 713,
       "2025-10-29": 841,
       "2025-10-28": 766,
-      "2025-10-27": 308
+      "2025-10-27": 261
     }
   },
   {
@@ -599,11 +596,11 @@
     "url": "$IP_GRP_F.98:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-98",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "80.97%",
-    "uptimeWeek": "79.72%",
-    "uptimeMonth": "94.92%",
+    "uptimeDay": "80.18%",
+    "uptimeWeek": "79.45%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "98.65%",
     "time": 232,
     "timeDay": 219,
@@ -611,7 +608,7 @@
     "timeMonth": 229,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-01-09": 101,
+      "2026-01-09": 128,
       "2026-01-08": 241,
       "2026-01-07": 180,
       "2026-01-06": 279,
@@ -636,7 +633,7 @@
       "2025-10-29": 838,
       "2025-10-28": 761,
       "2025-10-27": 669,
-      "2025-10-26": 81
+      "2025-10-26": 52
     }
   },
   {
@@ -644,11 +641,11 @@
     "url": "$IP_GRP_F.99:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-99",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "81.21%",
-    "uptimeWeek": "80.12%",
-    "uptimeMonth": "94.92%",
+    "uptimeDay": "80.42%",
+    "uptimeWeek": "79.86%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "98.66%",
     "time": 220,
     "timeDay": 216,
@@ -656,7 +653,7 @@
     "timeMonth": 226,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-01-09": 101,
+      "2026-01-09": 128,
       "2026-01-08": 239,
       "2026-01-07": 180,
       "2026-01-06": 246,
@@ -683,7 +680,7 @@
       "2025-10-29": 833,
       "2025-10-28": 730,
       "2025-10-27": 795,
-      "2025-10-26": 113
+      "2025-10-26": 79
     }
   },
   {
@@ -691,11 +688,11 @@
     "url": "$IP_GRP_A.130:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-130",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "81.44%",
-    "uptimeWeek": "79.95%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "80.65%",
+    "uptimeWeek": "79.68%",
+    "uptimeMonth": "94.93%",
     "uptimeYear": "98.70%",
     "time": 233,
     "timeDay": 218,
@@ -703,7 +700,7 @@
     "timeMonth": 230,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-01-09": 98,
+      "2026-01-09": 124,
       "2026-01-08": 236,
       "2026-01-07": 178,
       "2026-01-06": 274,
@@ -729,7 +726,7 @@
       "2025-10-29": 830,
       "2025-10-28": 752,
       "2025-10-27": 661,
-      "2025-10-26": 79
+      "2025-10-26": 51
     }
   },
   {
@@ -737,19 +734,19 @@
     "url": "$IP_GRP_A.139:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-139",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "81.68%",
-    "uptimeWeek": "80.06%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "98.76%",
+    "uptimeDay": "80.89%",
+    "uptimeWeek": "79.80%",
+    "uptimeMonth": "94.96%",
+    "uptimeYear": "98.77%",
     "time": 234,
     "timeDay": 219,
     "timeWeek": 235,
     "timeMonth": 229,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-01-09": 98,
+      "2026-01-09": 124,
       "2026-01-08": 234,
       "2026-01-07": 177,
       "2026-01-06": 269,
@@ -774,7 +771,7 @@
       "2025-10-30": 694,
       "2025-10-29": 825,
       "2025-10-28": 747,
-      "2025-10-27": 382
+      "2025-10-27": 337
     }
   },
   {
@@ -782,11 +779,11 @@
     "url": "$IP_GRP_A.106:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-106",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "81.92%",
-    "uptimeWeek": "80.18%",
-    "uptimeMonth": "94.97%",
+    "uptimeDay": "81.13%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "94.91%",
     "uptimeYear": "98.77%",
     "time": 223,
     "timeDay": 218,
@@ -794,7 +791,7 @@
     "timeMonth": 246,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-01-09": 95,
+      "2026-01-09": 121,
       "2026-01-08": 231,
       "2026-01-07": 175,
       "2026-01-06": 268,
@@ -819,7 +816,7 @@
       "2025-10-30": 691,
       "2025-10-29": 822,
       "2025-10-28": 743,
-      "2025-10-27": 413
+      "2025-10-27": 378
     }
   },
   {
@@ -827,19 +824,19 @@
     "url": "$IP_GRP_A.176:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-176",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "82.15%",
-    "uptimeWeek": "80.29%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "81.36%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "98.78%",
     "time": 226,
     "timeDay": 216,
     "timeWeek": 233,
     "timeMonth": 228,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-01-09": 95,
+      "2026-01-09": 120,
       "2026-01-08": 229,
       "2026-01-07": 174,
       "2026-01-06": 263,
@@ -863,8 +860,7 @@
       "2025-10-30": 685,
       "2025-10-29": 817,
       "2025-10-28": 737,
-      "2025-10-27": 648,
-      "2025-10-26": 49
+      "2025-10-27": 408
     }
   },
   {
@@ -872,11 +868,11 @@
     "url": "$IP_GRP_B.206:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-206",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "82.39%",
-    "uptimeWeek": "80.41%",
-    "uptimeMonth": "95.11%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "80.16%",
+    "uptimeMonth": "95.06%",
     "uptimeYear": "98.74%",
     "time": 224,
     "timeDay": 220,
@@ -884,7 +880,7 @@
     "timeMonth": 228,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-01-09": 93,
+      "2026-01-09": 118,
       "2026-01-08": 227,
       "2026-01-07": 172,
       "2026-01-06": 262,
@@ -909,7 +905,7 @@
       "2025-10-29": 814,
       "2025-10-28": 733,
       "2025-10-27": 645,
-      "2025-10-26": 75
+      "2025-10-26": 49
     }
   },
   {
@@ -917,19 +913,19 @@
     "url": "$IP_GRP_A.101:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-101",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "82.63%",
-    "uptimeWeek": "80.66%",
-    "uptimeMonth": "95.18%",
-    "uptimeYear": "98.80%",
+    "uptimeDay": "81.84%",
+    "uptimeWeek": "80.42%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "98.81%",
     "time": 222,
     "timeDay": 218,
     "timeWeek": 235,
     "timeMonth": 230,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 92,
+      "2026-01-09": 117,
       "2026-01-08": 224,
       "2026-01-07": 171,
       "2026-01-06": 244,
@@ -954,7 +950,7 @@
       "2025-10-30": 676,
       "2025-10-29": 809,
       "2025-10-28": 729,
-      "2025-10-27": 399
+      "2025-10-27": 366
     }
   },
   {
@@ -962,11 +958,11 @@
     "url": "$IP_GRP_D.57:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-57",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "82.86%",
-    "uptimeWeek": "80.64%",
-    "uptimeMonth": "95.18%",
+    "uptimeDay": "82.07%",
+    "uptimeWeek": "80.40%",
+    "uptimeMonth": "95.12%",
     "uptimeYear": "98.75%",
     "time": 225,
     "timeDay": 215,
@@ -974,7 +970,7 @@
     "timeMonth": 228,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-01-09": 90,
+      "2026-01-09": 114,
       "2026-01-08": 222,
       "2026-01-07": 169,
       "2026-01-06": 256,
@@ -1000,7 +996,7 @@
       "2025-10-30": 693,
       "2025-10-29": 806,
       "2025-10-28": 723,
-      "2025-10-27": 280
+      "2025-10-27": 237
     }
   },
   {
@@ -1008,11 +1004,11 @@
     "url": "$IP_GRP_C.33:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-ip-ending-with-33",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "80.50%",
-    "uptimeWeek": "79.48%",
-    "uptimeMonth": "94.86%",
+    "uptimeDay": "79.71%",
+    "uptimeWeek": "79.19%",
+    "uptimeMonth": "94.79%",
     "uptimeYear": "98.71%",
     "time": 250,
     "timeDay": 219,
@@ -1020,7 +1016,7 @@
     "timeMonth": 229,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-01-09": 104,
+      "2026-01-09": 134,
       "2026-01-08": 245,
       "2026-01-07": 184,
       "2026-01-06": 285,
@@ -1046,7 +1042,7 @@
       "2025-10-30": 699,
       "2025-10-29": 846,
       "2025-10-28": 771,
-      "2025-10-27": 439
+      "2025-10-27": 401
     }
   },
   {
@@ -1054,19 +1050,19 @@
     "url": "$IP_GRP_C.34:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-ip-ending-with-34",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "80.87%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "82.55%",
+    "uptimeWeek": "80.64%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "98.79%",
     "time": 222,
     "timeDay": 216,
     "timeWeek": 234,
     "timeMonth": 232,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 87,
+      "2026-01-09": 111,
       "2026-01-08": 217,
       "2026-01-07": 166,
       "2026-01-06": 250,
@@ -1092,7 +1088,7 @@
       "2025-10-30": 683,
       "2025-10-29": 799,
       "2025-10-28": 714,
-      "2025-10-27": 232
+      "2025-10-27": 169
     }
   },
   {
@@ -1100,19 +1096,19 @@
     "url": "$IP_GRP_A.117:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-117",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "83.58%",
-    "uptimeWeek": "80.99%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "82.79%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "98.79%",
     "time": 276,
     "timeDay": 214,
     "timeWeek": 234,
     "timeMonth": 228,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2026-01-09": 86,
+      "2026-01-09": 109,
       "2026-01-08": 216,
       "2026-01-07": 165,
       "2026-01-06": 246,
@@ -1136,7 +1132,7 @@
       "2025-10-30": 678,
       "2025-10-29": 794,
       "2025-10-28": 710,
-      "2025-10-27": 341
+      "2025-10-27": 300
     }
   },
   {
@@ -1144,19 +1140,19 @@
     "url": "$IP_GRP_A.115:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-115",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "83.81%",
-    "uptimeWeek": "81.10%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "98.80%",
+    "uptimeDay": "83.03%",
+    "uptimeWeek": "80.88%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "98.81%",
     "time": 231,
     "timeDay": 221,
     "timeWeek": 236,
     "timeMonth": 229,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-09": 84,
+      "2026-01-09": 107,
       "2026-01-08": 212,
       "2026-01-07": 164,
       "2026-01-06": 244,
@@ -1180,7 +1176,7 @@
       "2025-10-30": 672,
       "2025-10-29": 790,
       "2025-10-28": 704,
-      "2025-10-27": 269
+      "2025-10-27": 228
     }
   },
   {
@@ -1188,19 +1184,19 @@
     "url": "$IP_GRP_A.105:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-105",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "84.05%",
-    "uptimeWeek": "81.22%",
-    "uptimeMonth": "95.30%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "83.26%",
+    "uptimeWeek": "80.99%",
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "98.82%",
     "time": 224,
     "timeDay": 218,
     "timeWeek": 233,
     "timeMonth": 227,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-01-09": 83,
+      "2026-01-09": 106,
       "2026-01-08": 211,
       "2026-01-07": 162,
       "2026-01-06": 240,
@@ -1225,7 +1221,7 @@
       "2025-10-30": 667,
       "2025-10-29": 786,
       "2025-10-28": 742,
-      "2025-10-27": 226
+      "2025-10-27": 165
     }
   },
   {
@@ -1233,11 +1229,11 @@
     "url": "$IP_GRP_D.59:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-ip-ending-with-59",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "84.28%",
-    "uptimeWeek": "81.33%",
-    "uptimeMonth": "95.37%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "81.11%",
+    "uptimeMonth": "95.32%",
     "uptimeYear": "98.86%",
     "time": 225,
     "timeDay": 217,
@@ -1245,7 +1241,7 @@
     "timeMonth": 229,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-01-09": 81,
+      "2026-01-09": 103,
       "2026-01-08": 207,
       "2026-01-07": 161,
       "2026-01-06": 238,
@@ -1270,7 +1266,7 @@
       "2025-10-30": 661,
       "2025-10-29": 585,
       "2025-10-28": 734,
-      "2025-10-27": 162
+      "2025-10-27": 126
     }
   },
   {
@@ -1278,11 +1274,11 @@
     "url": "$IP_GRP_A.107:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-107",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "84.52%",
-    "uptimeWeek": "81.45%",
-    "uptimeMonth": "95.40%",
+    "uptimeDay": "83.74%",
+    "uptimeWeek": "81.23%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "98.80%",
     "time": 227,
     "timeDay": 366,
@@ -1290,7 +1286,7 @@
     "timeMonth": 264,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-01-09": 80,
+      "2026-01-09": 102,
       "2026-01-08": 206,
       "2026-01-07": 159,
       "2026-01-06": 234,
@@ -1314,7 +1310,7 @@
       "2025-10-30": 672,
       "2025-10-29": 779,
       "2025-10-28": 813,
-      "2025-10-27": 295
+      "2025-10-27": 260
     }
   },
   {
@@ -1322,11 +1318,11 @@
     "url": "$IP_GRP_A.133:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-133",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "81.56%",
-    "uptimeMonth": "95.44%",
+    "uptimeDay": "83.98%",
+    "uptimeWeek": "81.35%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "98.83%",
     "time": 287,
     "timeDay": 366,
@@ -1334,7 +1330,7 @@
     "timeMonth": 247,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-01-09": 78,
+      "2026-01-09": 100,
       "2026-01-08": 202,
       "2026-01-07": 158,
       "2026-01-06": 233,
@@ -1358,7 +1354,7 @@
       "2025-10-30": 652,
       "2025-10-29": 775,
       "2025-10-28": 805,
-      "2025-10-27": 257
+      "2025-10-27": 218
     }
   },
   {
@@ -1366,19 +1362,19 @@
     "url": "$IP_GRP_F.92:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-ip-ending-with-92",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.00%",
-    "uptimeWeek": "81.68%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "84.22%",
+    "uptimeWeek": "81.47%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "98.85%",
     "time": 228,
     "timeDay": 215,
     "timeWeek": 233,
     "timeMonth": 244,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-01-09": 77,
+      "2026-01-09": 98,
       "2026-01-08": 201,
       "2026-01-07": 156,
       "2026-01-06": 228,
@@ -1404,7 +1400,7 @@
       "2025-10-30": 646,
       "2025-10-29": 771,
       "2025-10-28": 802,
-      "2025-10-27": 216
+      "2025-10-27": 157
     }
   },
   {
@@ -1412,11 +1408,11 @@
     "url": "$IP_GRP_A.120:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-120",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "81.80%",
-    "uptimeMonth": "95.50%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "81.59%",
+    "uptimeMonth": "95.45%",
     "uptimeYear": "98.86%",
     "time": 221,
     "timeDay": 220,
@@ -1424,7 +1420,7 @@
     "timeMonth": 230,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-01-09": 75,
+      "2026-01-09": 96,
       "2026-01-08": 197,
       "2026-01-07": 155,
       "2026-01-06": 227,
@@ -1449,7 +1445,7 @@
       "2025-10-30": 641,
       "2025-10-29": 740,
       "2025-10-28": 794,
-      "2025-10-27": 213
+      "2025-10-27": 154
     }
   },
   {
@@ -1457,19 +1453,19 @@
     "url": "$IP_GRP_B.213:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-213",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.47%",
-    "uptimeWeek": "81.91%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "98.85%",
+    "uptimeDay": "84.69%",
+    "uptimeWeek": "81.71%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "98.86%",
     "time": 246,
     "timeDay": 221,
     "timeWeek": 235,
     "timeMonth": 229,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-01-09": 74,
+      "2026-01-09": 95,
       "2026-01-08": 196,
       "2026-01-07": 153,
       "2026-01-06": 222,
@@ -1493,7 +1489,7 @@
       "2025-10-30": 636,
       "2025-10-29": 763,
       "2025-10-28": 791,
-      "2025-10-27": 283
+      "2025-10-27": 249
     }
   },
   {
@@ -1501,11 +1497,11 @@
     "url": "$IP_GRP_B.217:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-217",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.71%",
-    "uptimeWeek": "82.03%",
-    "uptimeMonth": "95.60%",
+    "uptimeDay": "84.93%",
+    "uptimeWeek": "81.83%",
+    "uptimeMonth": "95.55%",
     "uptimeYear": "98.85%",
     "time": 232,
     "timeDay": 217,
@@ -1513,7 +1509,7 @@
     "timeMonth": 245,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-01-09": 72,
+      "2026-01-09": 92,
       "2026-01-08": 193,
       "2026-01-07": 153,
       "2026-01-06": 221,
@@ -1536,7 +1532,7 @@
       "2025-10-30": 630,
       "2025-10-29": 759,
       "2025-10-28": 783,
-      "2025-10-27": 316
+      "2025-10-27": 279
     }
   },
   {
@@ -1544,11 +1540,11 @@
     "url": "$IP_GRP_B.252:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-252",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "86.97%",
-    "uptimeWeek": "82.29%",
-    "uptimeMonth": "95.70%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "86.18%",
+    "uptimeWeek": "82.09%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "98.86%",
     "time": 226,
     "timeDay": 216,
@@ -1556,7 +1552,7 @@
     "timeMonth": 227,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-01-09": 71,
+      "2026-01-09": 91,
       "2026-01-08": 176,
       "2026-01-07": 151,
       "2026-01-06": 218,
@@ -1579,7 +1575,7 @@
       "2025-10-30": 625,
       "2025-10-29": 720,
       "2025-10-28": 780,
-      "2025-10-27": 277
+      "2025-10-27": 244
     }
   },
   {
@@ -1587,19 +1583,19 @@
     "url": "$IP_GRP_A.174:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-174",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "87.17%",
-    "uptimeWeek": "82.40%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "86.39%",
+    "uptimeWeek": "82.20%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "98.87%",
     "time": 239,
     "timeDay": 216,
     "timeWeek": 232,
     "timeMonth": 227,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-01-09": 69,
+      "2026-01-09": 89,
       "2026-01-08": 174,
       "2026-01-07": 150,
       "2026-01-06": 215,
@@ -1620,8 +1616,7 @@
       "2025-10-30": 619,
       "2025-10-29": 752,
       "2025-10-28": 773,
-      "2025-10-27": 574,
-      "2025-10-26": 40
+      "2025-10-27": 334
     }
   },
   {
@@ -1629,11 +1624,11 @@
     "url": "$IP_GRP_A.171:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-171",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "87.37%",
-    "uptimeWeek": "82.66%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "86.59%",
+    "uptimeWeek": "82.46%",
+    "uptimeMonth": "95.78%",
     "uptimeYear": "98.82%",
     "time": 220,
     "timeDay": 214,
@@ -1641,7 +1636,7 @@
     "timeMonth": 228,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-01-09": 68,
+      "2026-01-09": 87,
       "2026-01-08": 172,
       "2026-01-07": 148,
       "2026-01-06": 212,
@@ -1663,7 +1658,7 @@
       "2025-10-29": 747,
       "2025-10-28": 770,
       "2025-10-27": 571,
-      "2025-10-26": 81
+      "2025-10-26": 58
     }
   },
   {
@@ -1671,19 +1666,19 @@
     "url": "$IP_GRP_A.160:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-160",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "87.58%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "95.85%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "82.57%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "98.83%",
     "time": 231,
     "timeDay": 214,
     "timeWeek": 235,
     "timeMonth": 229,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 66,
+      "2026-01-09": 85,
       "2026-01-08": 170,
       "2026-01-07": 148,
       "2026-01-06": 209,
@@ -1703,7 +1698,7 @@
       "2025-10-29": 744,
       "2025-10-28": 762,
       "2025-10-27": 565,
-      "2025-10-26": 386
+      "2025-10-26": 162
     }
   },
   {
@@ -1711,19 +1706,19 @@
     "url": "$IP_GRP_A.146:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-146",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "82.90%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "82.72%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "98.79%",
     "time": 224,
     "timeDay": 374,
     "timeWeek": 268,
     "timeMonth": 245,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-01-09": 65,
+      "2026-01-09": 84,
       "2026-01-08": 164,
       "2026-01-07": 145,
       "2026-01-06": 206,
@@ -1742,7 +1737,7 @@
       "2025-10-29": 739,
       "2025-10-28": 759,
       "2025-10-27": 562,
-      "2025-10-26": 602
+      "2025-10-26": 526
     }
   },
   {
@@ -1750,19 +1745,19 @@
     "url": "$IP_GRP_A.148:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-148",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "88.21%",
-    "uptimeWeek": "83.49%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "98.70%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "87.43%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "98.73%",
     "time": 222,
     "timeDay": 203,
     "timeWeek": 240,
     "timeMonth": 231,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 63,
+      "2026-01-09": 81,
       "2026-01-08": 163,
       "2026-01-07": 116,
       "2026-01-06": 202,
@@ -1781,7 +1776,7 @@
       "2025-10-28": 780,
       "2025-10-27": 557,
       "2025-10-26": 696,
-      "2025-10-25": 269
+      "2025-10-25": 54
     }
   },
   {
@@ -1789,11 +1784,11 @@
     "url": "$IP_GRP_A.149:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-149",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "88.14%",
-    "uptimeWeek": "83.07%",
-    "uptimeMonth": "95.88%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "82.89%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "98.78%",
     "time": 226,
     "timeDay": 215,
@@ -1801,7 +1796,7 @@
     "timeMonth": 228,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-01-09": 62,
+      "2026-01-09": 80,
       "2026-01-08": 165,
       "2026-01-07": 142,
       "2026-01-06": 201,
@@ -1821,7 +1816,7 @@
       "2025-10-29": 823,
       "2025-10-28": 762,
       "2025-10-27": 554,
-      "2025-10-26": 522
+      "2025-10-26": 491
     }
   },
   {
@@ -1829,11 +1824,11 @@
     "url": "$IP_GRP_A.177:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-177",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "82.96%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "87.57%",
+    "uptimeWeek": "82.78%",
+    "uptimeMonth": "95.86%",
     "uptimeYear": "98.80%",
     "time": 241,
     "timeDay": 215,
@@ -1841,7 +1836,7 @@
     "timeMonth": 231,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-01-09": 60,
+      "2026-01-09": 78,
       "2026-01-08": 163,
       "2026-01-07": 142,
       "2026-01-06": 196,
@@ -1861,7 +1856,7 @@
       "2025-10-29": 821,
       "2025-10-28": 658,
       "2025-10-27": 549,
-      "2025-10-26": 516
+      "2025-10-26": 486
     }
   },
   {
@@ -1869,19 +1864,19 @@
     "url": "$IP_GRP_A.178:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-178",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "88.55%",
-    "uptimeWeek": "83.28%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "87.77%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "98.76%",
     "time": 247,
     "timeDay": 215,
     "timeWeek": 232,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-01-09": 59,
+      "2026-01-09": 76,
       "2026-01-08": 161,
       "2026-01-07": 140,
       "2026-01-06": 195,
@@ -1901,7 +1896,7 @@
       "2025-10-28": 738,
       "2025-10-27": 545,
       "2025-10-26": 664,
-      "2025-10-25": 266
+      "2025-10-25": 53
     }
   },
   {
@@ -1909,19 +1904,19 @@
     "url": "$IP_GRP_A.165:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-165",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "88.75%",
-    "uptimeWeek": "83.54%",
-    "uptimeMonth": "96.04%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "83.37%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "98.73%",
     "time": 220,
     "timeDay": 218,
     "timeWeek": 235,
     "timeMonth": 229,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-01-09": 57,
+      "2026-01-09": 74,
       "2026-01-08": 159,
       "2026-01-07": 139,
       "2026-01-06": 190,
@@ -1941,7 +1936,7 @@
       "2025-10-28": 734,
       "2025-10-27": 540,
       "2025-10-26": 659,
-      "2025-10-25": 346
+      "2025-10-25": 301
     }
   },
   {
@@ -1949,11 +1944,11 @@
     "url": "$IP_GRP_A.166:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-166",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "83.78%",
-    "uptimeMonth": "96.10%",
+    "uptimeDay": "88.17%",
+    "uptimeWeek": "83.62%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "98.72%",
     "time": 222,
     "timeDay": 215,
@@ -1961,7 +1956,7 @@
     "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 56,
+      "2026-01-09": 73,
       "2026-01-08": 157,
       "2026-01-07": 136,
       "2026-01-06": 175,
@@ -1981,7 +1976,7 @@
       "2025-10-28": 729,
       "2025-10-27": 536,
       "2025-10-26": 653,
-      "2025-10-25": 407
+      "2025-10-25": 377
     }
   },
   {
@@ -1989,11 +1984,11 @@
     "url": "$IP_GRP_A.167:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-167",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "89.16%",
-    "uptimeWeek": "83.88%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "88.38%",
+    "uptimeWeek": "83.72%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "98.70%",
     "time": 220,
     "timeDay": 215,
@@ -2001,7 +1996,7 @@
     "timeMonth": 228,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-01-09": 54,
+      "2026-01-09": 70,
       "2026-01-08": 155,
       "2026-01-07": 135,
       "2026-01-06": 171,
@@ -2021,7 +2016,7 @@
       "2025-10-28": 725,
       "2025-10-27": 532,
       "2025-10-26": 717,
-      "2025-10-25": 406
+      "2025-10-25": 377
     }
   },
   {
@@ -2029,19 +2024,19 @@
     "url": "$IP_GRP_A.170:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-170",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "89.36%",
-    "uptimeWeek": "83.98%",
-    "uptimeMonth": "93.24%",
-    "uptimeYear": "98.55%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "83.82%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "98.56%",
     "time": 225,
     "timeDay": 220,
     "timeWeek": 269,
     "timeMonth": 245,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-01-09": 53,
+      "2026-01-09": 69,
       "2026-01-08": 153,
       "2026-01-07": 133,
       "2026-01-06": 170,
@@ -2061,7 +2056,7 @@
       "2025-10-29": 804,
       "2025-10-28": 720,
       "2025-10-27": 528,
-      "2025-10-26": 621
+      "2025-10-26": 549
     }
   },
   {
@@ -2069,19 +2064,19 @@
     "url": "$IP_GRP_A.122:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-122",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "89.56%",
-    "uptimeWeek": "84.07%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "98.70%",
+    "uptimeDay": "88.79%",
+    "uptimeWeek": "83.92%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "98.71%",
     "time": 281,
     "timeDay": 218,
     "timeWeek": 235,
     "timeMonth": 229,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2026-01-09": 51,
+      "2026-01-09": 67,
       "2026-01-08": 151,
       "2026-01-07": 132,
       "2026-01-06": 166,
@@ -2101,7 +2096,7 @@
       "2025-10-28": 715,
       "2025-10-27": 523,
       "2025-10-26": 705,
-      "2025-10-25": 373
+      "2025-10-25": 296
     }
   },
   {
@@ -2109,19 +2104,19 @@
     "url": "$IP_GRP_A.123:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-123",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "84.17%",
+    "uptimeDay": "89.81%",
+    "uptimeWeek": "84.13%",
     "uptimeMonth": "96.19%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.71%",
     "time": 246,
     "timeDay": 220,
     "timeWeek": 235,
     "timeMonth": 229,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2026-01-09": 50,
+      "2026-01-09": 53,
       "2026-01-08": 149,
       "2026-01-07": 130,
       "2026-01-06": 165,
@@ -2148,11 +2143,11 @@
     "url": "$IP_GRP_A.104:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-104",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "84.52%",
-    "uptimeMonth": "96.28%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "84.48%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "98.71%",
     "time": 222,
     "timeDay": 219,
@@ -2160,7 +2155,7 @@
     "timeMonth": 227,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-01-09": 48,
+      "2026-01-09": 52,
       "2026-01-08": 147,
       "2026-01-07": 129,
       "2026-01-06": 136,
@@ -2188,19 +2183,19 @@
     "url": "$IP_GRP_A.125:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-125",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "84.36%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "84.32%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "98.74%",
-    "time": 232,
+    "time": 226,
     "timeDay": 219,
     "timeWeek": 234,
     "timeMonth": 228,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-01-09": 47,
+      "2026-01-09": 51,
       "2026-01-08": 145,
       "2026-01-07": 127,
       "2026-01-06": 161,
@@ -2228,11 +2223,11 @@
     "url": "$IP_GRP_B.215:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-215",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "90.38%",
-    "uptimeWeek": "78.47%",
-    "uptimeMonth": "94.89%",
+    "uptimeDay": "90.32%",
+    "uptimeWeek": "78.43%",
+    "uptimeMonth": "94.88%",
     "uptimeYear": "98.53%",
     "time": 228,
     "timeDay": 215,
@@ -2240,7 +2235,7 @@
     "timeMonth": 237,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-01-09": 45,
+      "2026-01-09": 49,
       "2026-01-08": 93,
       "2026-01-07": 126,
       "2026-01-06": 725,
@@ -2268,19 +2263,19 @@
     "url": "$IP_GRP_A.108:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-108",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "90.58%",
-    "uptimeWeek": "78.21%",
-    "uptimeMonth": "94.83%",
+    "uptimeDay": "90.49%",
+    "uptimeWeek": "78.17%",
+    "uptimeMonth": "94.82%",
     "uptimeYear": "98.50%",
-    "time": 224,
+    "time": 223,
     "timeDay": 215,
     "timeWeek": 233,
     "timeMonth": 228,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-01-09": 44,
+      "2026-01-09": 48,
       "2026-01-08": 141,
       "2026-01-07": 124,
       "2026-01-06": 710,
@@ -2307,19 +2302,19 @@
     "url": "$IP_GRP_B.224:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-ip-ending-with-224",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "91.82%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "94.89%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "78.40%",
+    "uptimeMonth": "94.88%",
     "uptimeYear": "98.45%",
-    "time": 224,
+    "time": 223,
     "timeDay": 219,
     "timeWeek": 234,
     "timeMonth": 229,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-01-09": 27,
+      "2026-01-09": 32,
       "2026-01-08": 139,
       "2026-01-07": 123,
       "2026-01-06": 708,
@@ -2347,11 +2342,11 @@
     "url": "$IP_GRP_MISC.42:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "o-ip-ending-with-42",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "78.53%",
-    "uptimeMonth": "94.76%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "94.75%",
     "uptimeYear": "98.47%",
     "time": 220,
     "timeDay": 215,
@@ -2359,7 +2354,7 @@
     "timeMonth": 228,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-01-09": 27,
+      "2026-01-09": 31,
       "2026-01-08": 137,
       "2026-01-07": 122,
       "2026-01-06": 707,
@@ -2387,11 +2382,11 @@
     "url": "$IP_GRP_MISC.41:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "o-ip-ending-with-41",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "78.61%",
-    "uptimeMonth": "94.93%",
+    "uptimeDay": "91.97%",
+    "uptimeWeek": "78.56%",
+    "uptimeMonth": "94.92%",
     "uptimeYear": "98.53%",
     "time": 222,
     "timeDay": 214,
@@ -2399,7 +2394,7 @@
     "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-01-09": 25,
+      "2026-01-09": 30,
       "2026-01-08": 135,
       "2026-01-07": 120,
       "2026-01-06": 705,
@@ -2428,11 +2423,11 @@
     "url": "$IP_GRP_A.102:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-102",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "78.84%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "78.79%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "98.49%",
     "time": 221,
     "timeDay": 216,
@@ -2440,7 +2435,7 @@
     "timeMonth": 231,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-01-09": 25,
+      "2026-01-09": 30,
       "2026-01-08": 133,
       "2026-01-07": 119,
       "2026-01-06": 704,
@@ -2467,11 +2462,11 @@
     "url": "$IP_GRP_A.195:$MONITORING_PORT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-ip-ending-with-195",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "78.91%",
-    "uptimeMonth": "95.01%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "78.87%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "98.48%",
     "time": 224,
     "timeDay": 219,
@@ -2479,7 +2474,7 @@
     "timeMonth": 229,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-01-09": 23,
+      "2026-01-09": 28,
       "2026-01-08": 131,
       "2026-01-07": 117,
       "2026-01-06": 703,
