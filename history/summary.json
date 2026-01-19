@@ -472,14 +472,14 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "63.46%",
+    "uptimeDay": "63.45%",
     "uptimeWeek": "71.45%",
     "uptimeMonth": "85.91%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.80%",
     "time": 247,
-    "timeDay": 252,
-    "timeWeek": 226,
-    "timeMonth": 225,
+    "timeDay": 257,
+    "timeWeek": 227,
+    "timeMonth": 226,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-01-19": 526,
@@ -504,7 +504,7 @@
       "2025-12-26": 26,
       "2025-12-12": 68,
       "2025-12-09": 26,
-      "2025-12-08": 144
+      "2025-12-08": 60
     }
   },
   {
@@ -642,7 +642,7 @@
     "slug": "a-ip-ending-with-130",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "30.77%",
+    "uptimeDay": "34.79%",
     "uptimeWeek": "67.37%",
     "uptimeMonth": "85.20%",
     "uptimeYear": "98.71%",
@@ -938,14 +938,14 @@
     "slug": "c-ip-ending-with-33",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "63.46%",
+    "uptimeDay": "63.45%",
     "uptimeWeek": "71.45%",
     "uptimeMonth": "85.91%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.80%",
     "time": 247,
-    "timeDay": 252,
-    "timeWeek": 226,
-    "timeMonth": 225,
+    "timeDay": 257,
+    "timeWeek": 227,
+    "timeMonth": 226,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-01-19": 526,
@@ -970,7 +970,7 @@
       "2025-12-26": 26,
       "2025-12-12": 68,
       "2025-12-09": 26,
-      "2025-12-08": 144
+      "2025-12-08": 60
     }
   },
   {
