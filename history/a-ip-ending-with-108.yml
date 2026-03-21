@@ -1,7 +1,7 @@
 url: $IP_GRP_A.108:$MONITORING_PORT
 status: up
 code: 400
-responseTime: 177
-lastUpdated: 2026-03-20T23:24:58.032Z
+responseTime: 297
+lastUpdated: 2026-03-21T23:20:32.846Z
 startTime: 2023-10-09T02:37:38.203Z
 generator: Upptime <https://github.com/upptime/upptime>
